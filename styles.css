@@ -34,7 +34,7 @@
     #back {
         background-image: url("./image/back.jpg");
         background-size: cover;
-        background: linear-gradient( rgba(0, 0, 0, 0.45), linear-gradient( rgba(0, 0, 0, 0.45)));
+        opacity: 1;
     }
     
     body {
