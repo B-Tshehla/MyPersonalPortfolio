@@ -1,0 +1,42 @@
+    /* Mobile first queries */
+    /* Larger than mobile */
+    
+    @media (min-width: 400px) {}
+    /* Larger than phablet */
+    
+    @media (min-width: 550px) {}
+    /* Larger than tablet */
+    
+    @media (min-width: 750px) {}
+    /* Larger than desktop */
+    
+    @media (min-width: 1000px) {}
+    /* Larger than Desktop HD */
+    
+    @media (min-width: 1200px) {}
+    
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    p {
+        text-align: justify;
+    }
+    /*  #ref-div {
+        background-color: #A9A9A9;
+    }*/
+    
+    #back {
+        background-image: url("./image/back.jpg");
+        background-size: cover;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), linear-gradient( rgba(0, 0, 0, 0.45)));
+    }
+    
+    body {
+        color: cornsilk;
+    }
